@@ -1,0 +1,11 @@
+#VARIAVEIS
+
+@baseUrl= http://localhost:3333
+
+#HEALTH check
+
+GET {{baseUrl}}/health
+
+###
+#GET ROOMS
+GET {{baseUrl}}/rooms
