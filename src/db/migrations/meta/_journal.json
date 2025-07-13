@@ -8,6 +8,13 @@
       "when": 1752322706718,
       "tag": "0000_handy_dormammu",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752336652580,
+      "tag": "0001_sticky_blue_shield",
+      "breakpoints": true
     }
   ]
 }
